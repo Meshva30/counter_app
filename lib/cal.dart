@@ -620,7 +620,6 @@ class _CalcScreenState extends State<CalcScreen> {
             ),
 
 
-            // Display the selected icon at the center
 
           ],
         ),
